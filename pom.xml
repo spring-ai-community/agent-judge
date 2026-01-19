@@ -47,8 +47,6 @@
         <module>agent-judge-core</module>
         <module>agent-judge-exec</module>
         <module>agent-judge-llm</module>
-        <module>agent-judge-agent</module>
-        <module>agent-judge-advisor</module>
         <module>agent-judge-bom</module>
     </modules>
 
@@ -190,16 +188,6 @@
             <dependency>
                 <groupId>org.springaicommunity</groupId>
                 <artifactId>agent-judge-llm</artifactId>
-                <version>${agent-judge.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>org.springaicommunity</groupId>
-                <artifactId>agent-judge-agent</artifactId>
-                <version>${agent-judge.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>org.springaicommunity</groupId>
-                <artifactId>agent-judge-advisor</artifactId>
                 <version>${agent-judge.version}</version>
             </dependency>
 

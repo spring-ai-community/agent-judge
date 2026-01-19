@@ -59,16 +59,6 @@
                 <artifactId>agent-judge-llm</artifactId>
                 <version>${agent-judge.version}</version>
             </dependency>
-            <dependency>
-                <groupId>org.springaicommunity</groupId>
-                <artifactId>agent-judge-agent</artifactId>
-                <version>${agent-judge.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>org.springaicommunity</groupId>
-                <artifactId>agent-judge-advisor</artifactId>
-                <version>${agent-judge.version}</version>
-            </dependency>
         </dependencies>
     </dependencyManagement>
 
