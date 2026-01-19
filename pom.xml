@@ -6,7 +6,7 @@
 
     <groupId>org.springaicommunity</groupId>
     <artifactId>agent-judge-parent</artifactId>
-    <version>0.1.0-SNAPSHOT</version>
+    <version>0.9.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>Agent Judge Parent</name>
@@ -121,7 +121,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
         <!-- Agent Judge project version -->
-        <agent-judge.version>0.1.0-SNAPSHOT</agent-judge.version>
+        <agent-judge.version>0.9.0-SNAPSHOT</agent-judge.version>
 
         <!-- Core dependency versions -->
         <spring-framework.version>6.2.6</spring-framework.version>
@@ -213,7 +213,7 @@
             <dependency>
                 <groupId>org.springaicommunity</groupId>
                 <artifactId>agent-sandbox-core</artifactId>
-                <version>0.1.0-SNAPSHOT</version>
+                <version>0.9.0-SNAPSHOT</version>
             </dependency>
 
             <!-- Slf4j API -->
