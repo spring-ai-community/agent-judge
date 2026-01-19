@@ -27,7 +27,7 @@
         <!-- Sandbox for process execution -->
         <dependency>
             <groupId>org.springaicommunity</groupId>
-            <artifactId>spring-ai-sandbox-core</artifactId>
+            <artifactId>agent-sandbox-core</artifactId>
         </dependency>
 
         <!-- Logging -->

@@ -212,7 +212,7 @@
             <!-- Sandbox for process execution -->
             <dependency>
                 <groupId>org.springaicommunity</groupId>
-                <artifactId>spring-ai-sandbox-core</artifactId>
+                <artifactId>agent-sandbox-core</artifactId>
                 <version>0.1.0-SNAPSHOT</version>
             </dependency>
 
